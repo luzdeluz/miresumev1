@@ -1,0 +1,78 @@
+
+/* FONDO GENERAL DE TODA LA PAGINA */
+body {
+    background-color: #FCE4EC;
+    color: #59434B;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: left;
+    min-height: 100vh;
+}
+
+/* ENCABEZADO */
+header {
+    background-color: #F8DDE5;
+    color: #59434B;
+    text-align: center;
+    border: 2px solid #EABAC9;
+    border-radius: 18px;
+}
+
+/* NOMBRE PRINCIPAL */
+h1 {
+    font-size: 32px;
+    color: #98566D;
+}
+
+/* EFECTO HOVER EN TU NOMBRE */
+h1:hover {
+    color: #C77D96;
+    cursor: pointer;
+}
+
+/* TITULOS DE LAS SECCIONES */
+h2 {
+    color: #98566D;
+    font-size: 23px;
+}
+
+/* SUBTITULOS */
+h3 {
+    color: #C77D96;
+    font-size: 19px;
+}
+
+/* SECCIONES */
+section {
+    background-color: #FFFFFF;
+    border: 1px solid #F0D5DE;
+    border-radius: 15px;
+}
+
+/* PARRAFOS */
+p {
+    font-size: 16px;
+    color: #59434B;
+}
+
+/* ENLACES */
+a {
+    color: #98566D;
+    text-decoration: none;
+}
+
+/* EFECTO HOVER EN LOS ENLACES */
+a:hover {
+    color: #C77D96;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* PIE DE PAGINA */
+footer {
+    background-color: #F8DDE5;
+    color: #59434B;
+    text-align: center;
+    border: 1px solid #EABAC9;
+    border-radius: 15px;
+}
